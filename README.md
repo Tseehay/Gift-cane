@@ -42,8 +42,8 @@ GiftCaneFurniture/
 ## Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/your-username/gift-cane-furniture.git
-   cd gift-cane-furniture
+   git clone https://github.com/Tseehay/Gift-cane.git
+   cd gift-cane
    ```
 2. **Install dependencies:**
    ```sh
